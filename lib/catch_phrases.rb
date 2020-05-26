@@ -13,11 +13,11 @@ def link
   puts phrase2
 end
 
-def all_phrases
+def all_phrase
  mario 
  toadstool
  link 
   
 end
 
-all_phrases
+all_phrase
